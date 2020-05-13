@@ -3,6 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+/*Projekt ne lenden Java 2.Studentet Suada Veka, Esmeralda Ulaj, Seldi Zaganjori, Klajdi Zhuraj.
+Ky projekt konsiston në ndërtimin e një aplikacioni të thjeshtë me ndërfaqe grafike, ku perdoruesi mund te kryeje veprime 
+si te rrise ose te zvogeloje vleren e numrave ne baze te specifikimeve qe behen. */
 package shembull;
 
 /**
